@@ -1,30 +1,32 @@
-"use strict" // treat all js code as new version
+"use strict"; // treat all JS code as newer version
 
 // alert(3 + 3) // we are using node js, not browser
 
-console.log(3 + 
-    3) // code redability should be high
+console.log(3 +
+     3); // code redability should be high
 
-console.log("Chandan")
+console.log("Chandan");
+
+
 
 let name = "Chandan"
-let age = 20
+let age = 18;
 let isLoggedIn = false
 let state = null
 
+
 // number => 2 to power 53
-// bigint
+// bigInt 
 // string => ""
 // boolean => true/false
 // null => standalone value
-// undefined =>
+// undefined => 
 // symbol => unique
 
+// object
 
-// object 
-
+console.log(typeof "Chandan"); 
 console.log(typeof null); // object
-console.log((typeof undefined)); // undefined
-
+console.log(typeof undefined); // undefined
 
 
