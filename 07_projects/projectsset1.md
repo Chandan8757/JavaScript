@@ -181,7 +181,7 @@ function newGame() {
 ```
 
 # Project 5 Solution
-```
+``` javascript
 const insert = document.getElementById('insert');
 
 window.addEventListener('keydown', (e) => {
@@ -206,7 +206,7 @@ window.addEventListener('keydown', (e) => {
 ```
 
 # project 6 solution
-```
+``` javascript
 //generate a random color
 
 const randomColor = function () {
